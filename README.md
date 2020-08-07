@@ -19,12 +19,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <img align="left" alt="norritec's Github Stats" src="https://github-readme-stats.vercel.app/api?username=norritec&show_icons=true&hide_border=true" />
 
 [website]: https://norritec.com
