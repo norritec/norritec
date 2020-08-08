@@ -1,4 +1,4 @@
-### Hi there, I'm Michael - aka [norritec][website] 👋
+### Hi, I'm Michael - aka [norritec][website] 👋
 
 ## I'm a Husband, Father, Developer, and Photojournalist!
 - 🌱 I’m currently learning everything I can 🤣
