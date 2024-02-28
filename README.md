@@ -3,7 +3,7 @@
 ## I'm a Husband, Father, Developer, and Photojournalist!
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I still use photography to help me relax when I need a break. During my time as a professional photojournalist for a news paper I was published all over the world.
 
 ### Connect with me:
@@ -22,6 +22,5 @@
 
 [website]: https://norritec.com
 [twitter]: https://twitter.com/norritec1
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/norritec
 [linkedin]: https://linkedin.com/in/michaelnorrisphoto
